@@ -20,7 +20,7 @@ public class TestCalculatorModel {
     @Test
     public void testMultiplyPossiblePermutaions() {
         Double numberZero = model.multiply(0d,new Double(5.0d)).doubleValue();
-        assertEquals(0d,numberZero,0d);
+        assertEquals(0d, numberZero, 0d);
 
         Double numberOrigin = model.multiply(null, new Double(5.0d)).doubleValue();
         assertEquals(5d, numberOrigin, 0d);
