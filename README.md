@@ -7,7 +7,7 @@ The project was earlier called [Praqma training RoadShow](https://github.com/pra
 
 
 ## Short summary
-lkhflkwej
+
 * Uses Gradle to build
 * Can deploy web app t Tomcat server
 * Can run Selenium tests againt deployed web app
